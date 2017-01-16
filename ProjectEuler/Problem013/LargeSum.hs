@@ -14,4 +14,4 @@ l2p (a:b:_) = (a,b)
 main = do
   ns <- replicateM 100 $ (read . take 12) <$> getLine
   let s = sum ns
-  print $ take 10 (show s)
+  print $ (read :: String -> Int) $ take 10 (show s)
