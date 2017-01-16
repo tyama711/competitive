@@ -11,5 +11,4 @@ readIntPair = l2p . map readInt . take 2 . B.words <$> B.getLine
 l2p (a:b:_) = (a,b)
 
 main = do
-  n <- readInt <$> B.getLine
-  print $ foldl lcm 1 [1..n]
+  print $ foldl lcm 1 [1..20]

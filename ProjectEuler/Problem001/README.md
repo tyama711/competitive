@@ -1,4 +1,4 @@
-# Problem 1
+# Problem
 https://projecteuler.net/problem=1
 
 # Result
