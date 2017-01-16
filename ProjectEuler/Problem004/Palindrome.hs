@@ -27,5 +27,4 @@ solve a b n
   | otherwise = solve (a+1) (a+1) n
 
 main = do
-  let ans = solve 100 100 999
-  putStrLn $ show ans ++ "=" ++ show (factorize ans)
+  print $ solve 100 100 999

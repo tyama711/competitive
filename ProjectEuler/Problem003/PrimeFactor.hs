@@ -18,5 +18,4 @@ _factorize n m
   | otherwise = _factorize n (m+1)
 
 main = do
-  n <- readInt <$> B.getLine
-  print $ factorize n
+  print $ last $ factorize 600851475143
