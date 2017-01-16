@@ -16,5 +16,4 @@ solve n m
   | otherwise = solve (n+1) m
 
 main = do
-  n <- readInt <$> B.getLine
-  print $ solve 1 n
+  print $ solve 1 1000
