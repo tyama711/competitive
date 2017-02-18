@@ -24,6 +24,14 @@ url = 'http://ctfq.sweetduet.info:10080/~q31/kangacha.php'
 payload = {'submit': 'Gacha'}
 headers = {'content-type': 'application/x-www-form-urlencoded'}
 s = requests.session()
-r = s.post(url, data=payload, headers=headers, cookies={'ship':hash[1].replace('\\x', '%').upper(), 'signature':hash[0]})
+r = s.post(
+    url,
+    data=payload,
+    headers=headers,
+    cookies={
+        'ship':hash[1].replace('\\x', '%').upper(),
+        'signature':hash[0]
+    }
+)
 
 print(r.text)
