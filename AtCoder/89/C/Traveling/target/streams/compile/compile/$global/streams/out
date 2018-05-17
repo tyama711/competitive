@@ -1,0 +1,6 @@
+[error] /home/yama/exercises/AtCoder/89/C/Traveling/src/main/scala/Main.scala:5:9: constructor cannot be instantiated to expected type;
+[error]  found   : (T1, T2, T3)
+[error]  required: Array[Int]
+[error]     val (t1, x1, y1) = io.StdIn.readLine().split(' ').map({ _.toInt })
+[error]         ^
+[error] one error found

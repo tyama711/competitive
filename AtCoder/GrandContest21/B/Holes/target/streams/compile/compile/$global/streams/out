@@ -1,0 +1,4 @@
+[error] /home/yama/exercises/AtCoder/GrandContest21/B/Holes/src/main/scala/Main.scala:39:54: value / is not a member of String
+[error]         println("%.20lf".format(max_angle - math.Pi) / (2 * math.Pi))
+[error]                                                      ^
+[error] one error found

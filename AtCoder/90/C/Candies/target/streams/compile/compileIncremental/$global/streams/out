@@ -1,0 +1,49 @@
+[debug] Full compilation, no sources in previous analysis.
+[debug] All sources are invalidated.
+[debug] Recompiling all 1 sources: invalidated sources (1) exceeded 50.0% of all sources
+[info] Compiling 1 Scala source to /home/yama/exercises/AtCoder/90/C/Candies/target/scala-2.11/classes ...
+[debug] Getting org.scala-sbt:compiler-bridge_2.11:1.1.1:compile for Scala 2.11.7
+[info] Non-compiled module 'compiler-bridge_2.11' for Scala 2.11.7. Compiling...
+[debug] Creating plain compiler interface for 2.11.7.
+[debug]   > Arguments: 
+[debug] 	-nowarn
+[debug] 	-d
+[debug] 	/tmp/sbt_aa71afdc
+[debug] 	-bootclasspath
+[debug] 	/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/resources.jar:/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar:/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/sunrsasign.jar:/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/jsse.jar:/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/jce.jar:/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/charsets.jar:/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/jfr.jar:/usr/lib/jvm/java-8-openjdk-amd64/jre/classes:/home/yama/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.7.jar
+[debug] 	-classpath
+[debug] 	/tmp/sbt_6e3cdd20/jars/org.scala-sbt/compiler-interface/compiler-interface-1.1.1.jar:/tmp/sbt_6e3cdd20/jars/org.scala-sbt/util-interface/util-interface-1.1.2.jar:/tmp/sbt_6e3cdd20/srcs/org.scala-sbt/compiler-bridge_2.11/compiler-bridge_2.11-1.1.1-sources.jar:/home/yama/.ivy2/cache/org.scala-lang/scala-compiler/jars/scala-compiler-2.11.7.jar:/home/yama/.ivy2/cache/org.scala-lang/scala-reflect/jars/scala-reflect-2.11.7.jar:/home/yama/.ivy2/cache/org.scala-lang.modules/scala-xml_2.11/bundles/scala-xml_2.11-1.0.4.jar:/home/yama/.ivy2/cache/org.scala-lang.modules/scala-parser-combinators_2.11/bundles/scala-parser-combinators_2.11-1.0.4.jar:/home/yama/.ivy2/cache/jline/jline/jars/jline-2.12.1.jar
+[debug] 	/tmp/sbt_93e1413e/xsbt/API.scala
+[debug] 	/tmp/sbt_93e1413e/xsbt/Analyzer.scala
+[debug] 	/tmp/sbt_93e1413e/xsbt/CallbackGlobal.scala
+[debug] 	/tmp/sbt_93e1413e/xsbt/ClassName.scala
+[debug] 	/tmp/sbt_93e1413e/xsbt/Command.scala
+[debug] 	/tmp/sbt_93e1413e/xsbt/Compat.scala
+[debug] 	/tmp/sbt_93e1413e/xsbt/CompilerInterface.scala
+[debug] 	/tmp/sbt_93e1413e/xsbt/ConsoleInterface.scala
+[debug] 	/tmp/sbt_93e1413e/xsbt/DelegatingReporter.scala
+[debug] 	/tmp/sbt_93e1413e/xsbt/Dependency.scala
+[debug] 	/tmp/sbt_93e1413e/xsbt/ExtractAPI.scala
+[debug] 	/tmp/sbt_93e1413e/xsbt/ExtractUsedNames.scala
+[debug] 	/tmp/sbt_93e1413e/xsbt/GlobalHelpers.scala
+[debug] 	/tmp/sbt_93e1413e/xsbt/InteractiveConsoleFactory.scala
+[debug] 	/tmp/sbt_93e1413e/xsbt/InteractiveConsoleHelper.scala
+[debug] 	/tmp/sbt_93e1413e/xsbt/InteractiveConsoleInterface.scala
+[debug] 	/tmp/sbt_93e1413e/xsbt/InteractiveConsoleResponse.scala
+[debug] 	/tmp/sbt_93e1413e/xsbt/JavaUtils.scala
+[debug] 	/tmp/sbt_93e1413e/xsbt/LocalToNonLocalClass.scala
+[debug] 	/tmp/sbt_93e1413e/xsbt/LocateClassFile.scala
+[debug] 	/tmp/sbt_93e1413e/xsbt/Log.scala
+[debug] 	/tmp/sbt_93e1413e/xsbt/Message.scala
+[debug] 	/tmp/sbt_93e1413e/xsbt/ScaladocInterface.scala
+[debug]       
+[info]   Compilation completed in 7.181s.
+[debug] Getting org.scala-sbt:compiler-bridge_2.11:1.1.1:compile for Scala 2.11.7
+[debug] [zinc] Running cached compiler 7a7ed9e7 for Scala compiler version 2.11.7
+[debug] [zinc] The Scala compiler is invoked with:
+[debug] 	-bootclasspath
+[debug] 	/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/resources.jar:/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar:/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/sunrsasign.jar:/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/jsse.jar:/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/jce.jar:/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/charsets.jar:/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/jfr.jar:/usr/lib/jvm/java-8-openjdk-amd64/jre/classes:/home/yama/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.7.jar
+[debug] 	-classpath
+[debug] 	/home/yama/exercises/AtCoder/90/C/Candies/target/scala-2.11/classes
+[debug] Scala compilation took 11.242420366 s
+[info] Done compiling.

@@ -1,0 +1,11 @@
+import qualified Data.ByteString.Char8 as B
+import Control.Applicative
+import Data.Maybe
+import Control.Monad
+import Data.List
+
+readInt = fromJust . fmap fst . B.readInt
+readInts = map readInt . B.words <$> B.getLine
+readIntPair = l2p . map readInt . take 2 . B.words <$> B.getLine
+l2p (a:b:_) = (a,b)
+

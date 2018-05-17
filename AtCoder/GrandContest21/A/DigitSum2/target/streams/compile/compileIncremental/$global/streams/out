@@ -1,0 +1,27 @@
+[debug] 
+[debug] Initial source changes: 
+[debug] 	removed:Set()
+[debug] 	added: Set()
+[debug] 	modified: Set(/home/yama/exercises/AtCoder/GrandContest21/A/DigitSum2/src/main/scala/Main.scala)
+[debug] Invalidated products: Set()
+[debug] External API changes: API Changes: Set()
+[debug] Modified binary dependencies: Set()
+[debug] Initial directly invalidated classes: Set(Main)
+[debug] 
+[debug] Sources indirectly invalidated by:
+[debug] 	product: Set()
+[debug] 	binary dep: Set()
+[debug] 	external source: Set()
+[debug] All sources are invalidated.
+[debug] Recompiling all 1 sources: invalidated sources (1) exceeded 50.0% of all sources
+[info] Compiling 1 Scala source to /home/yama/exercises/AtCoder/GrandContest21/A/DigitSum2/target/scala-2.11/classes ...
+[debug] Getting org.scala-sbt:compiler-bridge_2.11:1.1.1:compile for Scala 2.11.7
+[debug] Getting org.scala-sbt:compiler-bridge_2.11:1.1.1:compile for Scala 2.11.7
+[debug] [zinc] Running cached compiler 4ff75e82 for Scala compiler version 2.11.7
+[debug] [zinc] The Scala compiler is invoked with:
+[debug] 	-bootclasspath
+[debug] 	/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/resources.jar:/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar:/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/sunrsasign.jar:/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/jsse.jar:/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/jce.jar:/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/charsets.jar:/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/jfr.jar:/usr/lib/jvm/java-8-openjdk-amd64/jre/classes:/home/yama/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.7.jar
+[debug] 	-classpath
+[debug] 	/home/yama/exercises/AtCoder/GrandContest21/A/DigitSum2/target/scala-2.11/classes
+[debug] Scala compilation took 0.301254924 s
+[info] Done compiling.

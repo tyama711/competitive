@@ -1,0 +1,17 @@
+[info] Packaging /home/yama/exercises/AtCoder/90/C/Candies/target/scala-2.11/candies_2.11-0.1.jar ...
+[debug] Input file mappings:
+[debug] 	Main$.class
+[debug] 	  /home/yama/exercises/AtCoder/90/C/Candies/target/scala-2.11/classes/Main$.class
+[debug] 	Main.class
+[debug] 	  /home/yama/exercises/AtCoder/90/C/Candies/target/scala-2.11/classes/Main.class
+[debug] 	Main$$anonfun$main$1.class
+[debug] 	  /home/yama/exercises/AtCoder/90/C/Candies/target/scala-2.11/classes/Main$$anonfun$main$1.class
+[debug] 	Main$$anonfun$2.class
+[debug] 	  /home/yama/exercises/AtCoder/90/C/Candies/target/scala-2.11/classes/Main$$anonfun$2.class
+[debug] 	Main$$anonfun$4.class
+[debug] 	  /home/yama/exercises/AtCoder/90/C/Candies/target/scala-2.11/classes/Main$$anonfun$4.class
+[debug] 	Main$$anonfun$3.class
+[debug] 	  /home/yama/exercises/AtCoder/90/C/Candies/target/scala-2.11/classes/Main$$anonfun$3.class
+[debug] 	Main$$anonfun$1.class
+[debug] 	  /home/yama/exercises/AtCoder/90/C/Candies/target/scala-2.11/classes/Main$$anonfun$1.class
+[info] Done packaging.

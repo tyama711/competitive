@@ -1,0 +1,9 @@
+[info] Packaging /home/yama/exercises/AtCoder/GrandContest21/A/DigitSum2/target/scala-2.11/digitsum2_2.11-0.1.jar ...
+[debug] Input file mappings:
+[debug] 	Main$.class
+[debug] 	  /home/yama/exercises/AtCoder/GrandContest21/A/DigitSum2/target/scala-2.11/classes/Main$.class
+[debug] 	Main.class
+[debug] 	  /home/yama/exercises/AtCoder/GrandContest21/A/DigitSum2/target/scala-2.11/classes/Main.class
+[debug] 	Main$$anonfun$digitSum$1.class
+[debug] 	  /home/yama/exercises/AtCoder/GrandContest21/A/DigitSum2/target/scala-2.11/classes/Main$$anonfun$digitSum$1.class
+[info] Done packaging.

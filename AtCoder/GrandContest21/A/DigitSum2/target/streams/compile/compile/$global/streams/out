@@ -1,0 +1,7 @@
+[0m[[0m[31merror[0m] [0m[0m/home/yama/exercises/AtCoder/GrandContest21/A/DigitSum2/src/main/scala/Main.scala:8:18: illegal start of simple pattern[0m
+[0m[[0m[31merror[0m] [0m[0m    val String N = StdIn.readLine.trim[0m
+[0m[[0m[31merror[0m] [0m[0m                 ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/yama/exercises/AtCoder/GrandContest21/A/DigitSum2/src/main/scala/Main.scala:9:1: '=' expected but ';' found.[0m
+[0m[[0m[31merror[0m] [0m[0m    println(digitSum((N.toInt(0)-1).toString + "9" * (N.length-1)))[0m
+[0m[[0m[31merror[0m] [0m[0m^[0m
+[0m[[0m[31merror[0m] [0m[0mtwo errors found[0m
